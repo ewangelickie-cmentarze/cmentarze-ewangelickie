@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+  <meta charset="UTF-8">
+  <title>Cmentarze Ewangelickie – Mapa</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="style.css">
+  <!-- Leaflet CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+</head>
+<body>
+  <header>
+    <h1>Cmentarze Ewangelickie – Mapa</h1>
+    <input type="text" id="search" placeholder="Szukaj cmentarza...">
+  </header>
+  <main>
+    <div id="map"></div>
+    <div id="info-panel" class="hidden">
+      <button id="close-info">&times;</button>
+      <div id="info-content"></div>
+    </div>
+  </main>
+  <!-- Leaflet JS -->
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+  <script src="main.js"></script>
+</body>
+</html>

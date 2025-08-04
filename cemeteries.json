@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "name": "Cmentarz Ewangelicki w Brzynie",
+    "latitude": 54.76990074582694,
+    "longitude":  17.99940107823262,
+    "description": " BRAK OPISU.",
+    "photos": [
+      "https://upload.wikimedia.org/wikipedia/commons/6/6e/Cemetery_example.jpg"
+    ],
+    "buried": [
+      {
+        "name": "Emilia Burclaff",
+        "birth": "07.12.1886",
+        "death": "18.05.1948"
+      },
+      {
+        "name": "Maria Nowak",
+        "birth": 1875,
+        "death": 1950
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Cmentarz Ewangelicki w Wierzchucinie",
+    "latitude": 54.78963533335283,
+    "longitude":  17.974767533815353,
+    "description": "Mały cmentarz, zachowały się 3 nagrobki.",
+    "photos": [
+      "https://upload.wikimedia.org/wikipedia/commons/1/12/Graveyard_example.jpg"
+    ],
+    "buried": [
+      {
+        "name": "Fryderyk Müller",
+        "birth": 1845,
+        "death": 1901
+      }
+    ]
+  }
+  ]    
