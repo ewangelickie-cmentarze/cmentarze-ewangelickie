@@ -47,10 +47,32 @@
         "death": "28.11.1928"
       },
       {
-        "name": "Erike Petersen",
+        "name": "Erika Petersen",
         "birth": "12.01.1918",
         "death": "25.01.1997"
       }
     ]
-  }
+  },
+  {
+    "id": 3,
+    "name": "Cmentarz Ewangelicki w Bychowie",
+    "latitude": 54.73899816438446,
+    "longitude":  17.980825524984862,
+    "description": " BRAK OPISU.",
+    "photos": [
+      "https://upload.wikimedia.org/wikipedia/commons/6/6e/Cemetery_example.jpg"
+    ],
+    "buried": [
+      {
+        "name": "Emilia Burclaff",
+        "birth": "07.12.1886",
+        "death": "18.05.1948"
+      },
+      {
+        "name": "Maria nowotko",
+        "birth": 1875,
+        "death": 1950
+      }
+    ]
+  },
   ]    
