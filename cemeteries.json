@@ -58,21 +58,9 @@
     "name": "Cmentarz Ewangelicki w Strzebielinku",
     "latitude": 54.723721279944776,
     "longitude":  18.0429699295067,
-    "description": " BRAK OPISU.",
+    "description": " Cmentarz zdewastowany kompletnie w całości, brak grobów.",
     "photos": [
       "https://upload.wikimedia.org/wikipedia/commons/6/6e/Cemetery_example.jpg"
     ],
-    "buried": [
-      {
-        "name": "Emilia Burclaff",
-        "birth": "07.12.1886",
-        "death": "18.05.1948"
-      },
-      {
-        "name": "Maria nowotko",
-        "birth": 1875,
-        "death": 1950
-      }
-    ]
   }
 ]
