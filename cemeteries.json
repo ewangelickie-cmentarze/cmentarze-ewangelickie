@@ -54,13 +54,13 @@
     ]
   },
   {
-    "id": 3,
-    "name": "Cmentarz Ewangelicki w Strzebielinku",
-    "latitude": 54.723721279944776,
-    "longitude":  18.0429699295067,
-    "description": " Cmentarz zdewastowany kompletnie w całości, brak grobów.",
-    "photos": [
-      "https://upload.wikimedia.org/wikipedia/commons/6/6e/Cemetery_example.jpg"
-    ],
-  }
+  "name": "Cmentarz Ewangelicki w Mieście X",
+  "latitude": 54.72369959354044,
+  "longitude": 18.04298602276113,
+  "description": "Opis cmentarza, historia, ciekawostki.",
+  "photos": [
+    "url_do_zdjecia1.jpg",
+    "url_do_zdjecia2.jpg"
+  ]
+}
 ]
