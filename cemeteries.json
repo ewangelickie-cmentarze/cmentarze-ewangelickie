@@ -35,6 +35,21 @@
         "name": "Carl Gustav Wolsky",
         "birth": "26.12.1849",
         "death": "21.09.1940"
+      },
+      { 
+        "name": "Hermann Gumz",
+        "birth": "04.08.1858",
+        "death": "21.06.1928"
+      },
+      {
+      "name": "Auguste Gumz geb. Greinke",
+        "birth": "07.11.1857",
+        "death": "28.11.1928"
+      },
+      {
+        "name": "Erike Petersen",
+        "birth": "12.01.1918",
+        "death": "25.01.1997"
       }
     ]
   }
