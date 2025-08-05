@@ -53,7 +53,14 @@
       }
     ]
   },
-  
+  {
+  "name": "Cmentarz Ewangelicki w Strzebielinku",
+  "latitude": 54.72369959354044,
+  "longitude": 18.04298602276113,
+  "description": "Rozkradziony, zarośnięty oraz porozrzucane pozostałości od grobów.",
+  "photos": [
+    "url_do_zdjecia1.jpg",
+    "url_do_zdjecia2.jpg"
   ]
 }
 ]
