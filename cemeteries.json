@@ -164,5 +164,107 @@
       "death": ""
     }
   ]
+},
+{
+  "id": 10,
+  "name": "Cmentarz ewangelicki w Mierzynie",
+  "latitude": 54.695349786397756,
+  "longitude": 17.968195152854214,
+  "description": "ND",
+  "photos": [
+    "https://link.do.zdjecia.jpg"
+  ],
+  "buried": [
+    {
+      "name": "",
+      "birth": "",
+      "death": ""
+    }
+  ]
+},
+{
+  "id": 11,
+  "name": "Cmentarz ewangelicki w Czymanowie",
+  "latitude": 54.72858254289287,
+  "longitude": 18.067147458266607,
+  "description": "ND",
+  "photos": [
+    "https://link.do.zdjecia.jpg"
+  ],
+  "buried": [
+    {
+      "name": "",
+      "birth": "",
+      "death": ""
+    }
+  ]
+},
+{
+  "id": 12,
+  "name": "Cmentarz ewangelicki w Tyłowie",
+  "latitude": 54.71673750530533,
+  "longitude": 18.137226120491775,
+  "description": "ND",
+  "photos": [
+    "https://link.do.zdjecia.jpg"
+  ],
+  "buried": [
+    {
+      "name": "",
+      "birth": "",
+      "death": ""
+    }
+  ]
+},
+{
+  "id": 13,
+  "name": "Cmentarz ewangelicki w ",
+  "latitude": 54.71673750530533,
+  "longitude": 18.137226120491775,
+  "description": "ND",
+  "photos": [
+    "https://link.do.zdjecia.jpg"
+  ],
+  "buried": [
+    {
+      "name": "",
+      "birth": "",
+      "death": ""
+    }
+  ]
+},
+{
+  "id": 14,
+  "name": "Cmentarz ewangelicki w Lublewie ",
+  "latitude": 54.76255223885878, 
+  "longitude": 17.95858193521858,
+  "description": "ND",
+  "photos": [
+    "https://link.do.zdjecia.jpg"
+  ],
+  "buried": [
+    {
+      "name": "Hermann Karff",
+      "birth": "15.04.1894",
+      "death": "24.06.1928"
+    }
+  ]
+},
+{
+  "id": 15,
+  "name": "Cmentarz ewangelicki w Łęczynie Dolnym ",
+  "latitude": 54.63472961629235,
+  "longitude": 17.93786707019539,
+  "description": "ND",
+  "photos": [
+    "https://link.do.zdjecia.jpg"
+  ],
+  "buried": [
+    {
+      "name": "Otto Labudda",
+      "birth": "10.12.1888",
+      "death": "29.03.1972"
+    }
+  ]
 }
 ] 
