@@ -113,5 +113,56 @@
       "death": ""
     }
   ]
+},
+{
+  "id": 7,
+  "name": "Cmentarz ewangelicki w Słuszewie",
+  "latitude": 54.660821372787495,   
+  "longitude": 18.070170184989987,
+  "description": "ND",
+  "photos": [
+    "https://link.do.zdjecia.jpg"
+  ],
+  "buried": [
+    {
+      "name": "",
+      "birth": "",
+      "death": ""
+    }
+  ]
+},
+{
+  "id": 8,
+  "name": "Cmentarz ewangelicki w Kniewie",
+  "latitude": 54.664272097400904,
+  "longitude": 18.118895846105133,
+  "description": "ND",
+  "photos": [
+    "https://link.do.zdjecia.jpg"
+  ],
+  "buried": [
+    {
+      "name": "",
+      "birth": "",
+      "death": ""
+    }
+  ]
+},
+{
+  "id": 9,
+  "name": "Cmentarz ewangelicki w Zamostnym",
+  "latitude": 54.64666991612766,
+  "longitude": 18.112136747267474,
+  "description": "ND",
+  "photos": [
+    "https://link.do.zdjecia.jpg"
+  ],
+  "buried": [
+    {
+      "name": "",
+      "birth": "",
+      "death": ""
+    }
+  ]
 }
 ] 
