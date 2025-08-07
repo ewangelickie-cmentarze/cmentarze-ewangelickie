@@ -480,5 +480,158 @@
       "death": ""
     }
   ]
+},
+{
+  "id": 29,
+  "name": "Cmentarz ewangelicki w Biebrowie",
+  "latitude": 54.78363567714696,
+  "longitude": 17.816494256352094,
+  "description": "ND",
+  "photos": [
+    "https://link.do.zdjecia.jpg"
+  ],
+  "buried": [
+    {
+      "name": "",
+      "birth": "",
+      "death": ""
+    }
+  ]
+},
+{
+  "id": 30,
+  "name": "Cmentarz ewangelicki w Słajszewie",
+  "latitude": 54.76710073234443,
+  "longitude": 17.78006082410181,
+  "description": "ND",
+  "photos": [
+    "https://link.do.zdjecia.jpg"
+  ],
+  "buried": [
+    {
+      "name": "",
+      "birth": "",
+      "death": ""
+    }
+  ]
+},
+{
+  "id": 31,
+  "name": "Cmentarz ewangelicki w Strzeszewie"
+  "latitude": 54.71166442067026, 
+  "longitude":  17.745494572293566,
+  "description": "ND",
+  "photos": [
+    "https://link.do.zdjecia.jpg"
+  ],
+  "buried": [
+    {
+      "name": "",
+      "birth": "",
+      "death": ""
+    }
+  ]
+},
+{
+  "id": 32,
+  "name": "Cmentarz ewangelicki w Bargędzinie",
+  "latitude": 54.73684659573764,
+  "longitude": 17.723187595245633,
+  "description": "ND",
+  "photos": [
+    "https://link.do.zdjecia.jpg"
+  ],
+  "buried": [
+    {
+      "name": "",
+      "birth": "",
+      "death": ""
+    }
+  ]
+},
+{
+  "id": 33,
+  "name": "Cmentarz ewangelicki w Ulinii",
+  "latitude": 54.75489562426217,
+  "longitude": 17.707021793221575,
+  "description": "ND",
+  "photos": [
+    "https://link.do.zdjecia.jpg"
+  ],
+  "buried": [
+    {
+      "name": "",
+      "birth": "",
+      "death": ""
+    }
+  ]
+},
+{
+  "id": 34,
+  "name": "Cmentarz ewangelicki w Roszczycach",
+  "latitude": 54.711443308483716,
+  "longitude": 17.70791662709887,
+  "description": "ND",
+  "photos": [
+    "https://link.do.zdjecia.jpg"
+  ],
+  "buried": [
+    {
+      "name": "",
+      "birth": "",
+      "death": ""
+    }
+  ]
+},
+{
+  "id": 35,
+  "name": "Cmentarz ewangelicki w Maszewku",
+  "latitude": 54.68071808420729,
+  "longitude": 17.684128372577998,
+  "description": "ND",
+  "photos": [
+    "https://link.do.zdjecia.jpg"
+  ],
+  "buried": [
+    {
+      "name": "",
+      "birth": "",
+      "death": ""
+    }
+  ]
+},
+{
+  "id": 36,
+  "name": "Cmentarz ewangelicki w Łebieńcu",
+  "latitude": 54.71837691860841,
+  "longitude": 17.607939332798093,
+  "description": "ND",
+  "photos": [
+    "https://link.do.zdjecia.jpg"
+  ],
+  "buried": [
+    {
+      "name": "",
+      "birth": "",
+      "death": ""
+    }
+  ]
+},
+{
+  "id": 37,
+  "name": "Cmentarz ewangelicki w Obliwicach",
+  "latitude": 54.61725532697867,
+  "longitude": 17.74095351511524,
+  "description": "ND",
+  "photos": [
+    "https://link.do.zdjecia.jpg"
+  ],
+  "buried": [
+    {
+      "name": "",
+      "birth": "",
+      "death": ""
+    }
+  ]
 }
 ] 
