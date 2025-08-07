@@ -26,7 +26,7 @@
     "name": "Cmentarz Ewangelicki w Wierzchucinie",
     "latitude": 54.78963533335283,
     "longitude":  17.974767533815353,
-    "description": "Mały cmentarz, zachowały się 3 nagrobki.",
+    "description": "ND",
     "photos": [
       "https://upload.wikimedia.org/wikipedia/commons/1/12/Graveyard_example.jpg"
     ],
@@ -61,6 +61,23 @@
   "description": "Brak ocalałych nagrobków",
   "photos": [
     "https://link.do.zdjecia.jpg"
+  ]
+}, 
+{ 
+  "id": 4,
+  "name": "Cmentarz ewangelicki w Bychowie",
+  "latitude": 54.73896335979931,      
+  "longitude": 17.980754744393412,     
+  "description": "ND",
+  "photos": [
+    "https://link.do.zdjecia.jpg"
+  ],
+  "buried": [
+    {
+      "name": "",
+      "birth": "",
+      "death": ""
+    }
   ]
 }
 ] 
