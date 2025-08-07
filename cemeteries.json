@@ -79,5 +79,39 @@
       "death": ""
     }
   ]
+},
+{
+  "id": 5,
+  "name": "Cmentarz ewangelicki w Tadzinie",
+  "latitude":54.67809976497803,      
+  "longitude": 18.023138565599947,     
+  "description": "ND",
+  "photos": [
+    "https://link.do.zdjecia.jpg"
+  ],
+  "buried": [
+    {
+      "name": "",
+      "birth": "",
+      "death": ""
+    }
+  ]
+},
+{
+  "id": 6,
+  "name": "Cmentarz ewangelicki w Rybnie",
+  "latitude": 54.67186288183458,   
+  "longitude": 18.086702099999997,     
+  "description": "ND",
+  "photos": [
+    "https://link.do.zdjecia.jpg"
+  ],
+  "buried": [
+    {
+      "name": "",
+      "birth": "",
+      "death": ""
+    }
+  ]
 }
 ] 
