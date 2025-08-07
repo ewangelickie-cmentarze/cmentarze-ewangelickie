@@ -412,5 +412,73 @@
       "death": ""
     }
   ]
+},
+{
+  "id": 25,
+  "name": "Cmentarz ewangelicki w Zwartowie",
+  "latitude": 54.70091315962413,
+  "longitude": 17.810672984531088
+  "description": "ND",
+  "photos": [
+    "https://link.do.zdjecia.jpg"
+  ],
+  "buried": [
+    {
+      "name": "",
+      "birth": "",
+      "death": ""
+    }
+  ]
+},
+{
+  "id": 26,
+  "name": "Cmentarz ewangelicki w Zwartówku",
+  "latitude": 54.676747877198075,
+  "longitude": 17.8064552422171,
+  "description": "ND",
+  "photos": [
+    "https://link.do.zdjecia.jpg"
+  ],
+  "buried": [
+    {
+      "name": "",
+      "birth": "",
+      "death": ""
+    }
+  ]
+},
+{
+  "id": 27,
+  "name": "Cmentarz ewangelicki w Kurowie",
+  "latitude":54.73955865139443,
+  "longitude": 17.81654253606732,
+  "description": "ND",
+  "photos": [
+    "https://link.do.zdjecia.jpg"
+  ],
+  "buried": [
+    {
+      "name": "",
+      "birth": "",
+      "death": ""
+    }
+  ]
+},
+{
+  "id": 28,
+  "name": "Cmentarz ewangelicki w Jackowie",
+  "latitude": 54.77176865106099,
+  "longitude": 17.825808717701577,
+  "description": "ND",
+  "photos": [
+    "https://link.do.zdjecia.jpg"
+  ],
+  "buried": [
+    {
+      "name": "",
+      "birth": "",
+      "death": ""
+    }
+  ]
 }
 ] 
