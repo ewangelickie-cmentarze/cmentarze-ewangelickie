@@ -310,5 +310,107 @@
       "death": ""
     }
   ]
+},
+{
+  "id": 19,
+  "name": "Cmentarz ewangelicki w Toliszczku",
+  "latitude": 54.74995648561334,
+  "longitude": 18.020083742506312,
+  "description": "ND",
+  "photos": [
+    "https://link.do.zdjecia.jpg"
+  ],
+  "buried": [
+    {
+      "name": "",
+      "birth": "",
+      "death": ""
+    }
+  ]
+},
+{
+  "id": 20,
+  "name": "Cmentarz ewangelicki w Choczewku",
+  "latitude": 54.73497198153,
+  "longitude": 17.850535399230306,
+  "description": "ND",
+  "photos": [
+    "https://link.do.zdjecia.jpg"
+  ],
+  "buried": [
+    {
+      "name": "",
+      "birth": "",
+      "death": ""
+    }
+  ]
+},
+{
+  "id": 21,
+  "name": "Cmentarz ewangelicki w Żelaźnie",
+  "latitude": 54.72426335862789,
+  "longitude": 17.867511039194227,
+  "description": "ND",
+  "photos": [
+    "https://link.do.zdjecia.jpg"
+  ],
+  "buried": [
+    {
+      "name": "",
+      "birth": "",
+      "death": ""
+    }
+  ]
+},
+{
+  "id": 22,
+  "name": "Cmentarz ewangelicki w Błachówku",
+  "latitude": 54.76725666089706,
+  "longitude": 17.862496081505764,
+  "description": "ND",
+  "photos": [
+    "https://link.do.zdjecia.jpg"
+  ],
+  "buried": [
+    {
+      "name": "",
+      "birth": "",
+      "death": ""
+    }
+  ]
+},
+{
+  "id": 23,
+  "name": "Cmentarz ewangelicki w Lubiatowie",
+  "latitude": 54.787309708937315,
+  "longitude": 17.859482873546103,
+  "description": "ND",
+  "photos": [
+    "https://link.do.zdjecia.jpg"
+  ],
+  "buried": [
+    {
+      "name": "",
+      "birth": "",
+      "death": ""
+    }
+  ]
+},
+{
+  "id": 24,
+  "name": "Cmentarz ewangelicki w Salinie",
+  "latitude": 54.67582072425493, 
+  "longitude": 17.927000405561987,
+  "description": "ND",
+  "photos": [
+    "https://link.do.zdjecia.jpg"
+  ],
+  "buried": [
+    {
+      "name": "",
+      "birth": "",
+      "death": ""
+    }
+  ]
 }
 ] 
