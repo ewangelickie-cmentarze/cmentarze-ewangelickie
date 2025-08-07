@@ -218,9 +218,9 @@
 },
 {
   "id": 13,
-  "name": "Cmentarz ewangelicki w ",
-  "latitude": 54.71673750530533,
-  "longitude": 18.137226120491775,
+  "name": "Cmentarz ewangelicki w Karwieńskich Błotach I ",
+  "latitude": 54.80933950837147, 
+  "longitude": 18.168051727127978,
   "description": "ND",
   "photos": [
     "https://link.do.zdjecia.jpg"
@@ -264,6 +264,52 @@
       "name": "Otto Labudda",
       "birth": "10.12.1888",
       "death": "29.03.1972"
+    }
+  ]
+},
+{
+  "id": 16,
+  "name": "Cmentarz ewangelicki w Luzinie",
+  "latitude": 54.56552086739722, 
+  "longitude": 18.105331222682505,
+  "description": "Pochówek w latacj 1895-1953, żadnych grobów.",
+  "photos": [
+    "https://link.do.zdjecia.jpg"
+  ]
+    }
+  ]
+},
+{
+  "id": 17,
+  "name": "Cmentarz ewangelicki w Przebendowie",
+  "latitude": 54.725030545087684, 
+  "longitude": 17.832511983340396,
+  "description": "Przy cmentarzu stoi Kaplica rodziny von Vittke z XIX w.",
+  "photos": [
+    "https://link.do.zdjecia.jpg"
+  ],
+  "buried": [
+    {
+      "name": "",
+      "birth": "",
+      "death": ""
+    }
+  ]
+},
+{
+  "id": 18,
+  "name": "Cmentarz ewangelicki w Łętowie",
+  "latitude": 54.723666734938504, 
+  "longitude": 17.911007599999998,
+  "description": "ND",
+  "photos": [
+    "https://link.do.zdjecia.jpg"
+  ],
+  "buried": [
+    {
+      "name": "",
+      "birth": "",
+      "death": ""
     }
   ]
 }
