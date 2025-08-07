@@ -52,15 +52,5 @@
         "death": "25.01.1997"
       }
     ]
-  },
-  {
-  "name": "Cmentarz Ewangelicki w Strzebielinku",
-  "latitude": 54.72374296633751, 
-  "longitude": 18.042884098816415
-  "description": "Opis cmentarza, historia, ciekawostki.",
-  "buried": [
-    { "name": "Jan Nowak", "birth": "1900", "death": "1970" },
-    { "name": "Anna Kowalska", "birth": "1920", "death": "1980" }
-  ]
-}
+  }
 ] 
