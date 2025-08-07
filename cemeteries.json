@@ -15,9 +15,9 @@
         "death": "18.05.1948"
       },
       {
-        "name": "Maria nowotko",
-        "birth": 1875,
-        "death": 1950
+        "name": "Teodor Schmalz",
+        "birth": "25.04.1893",
+        "death": "17.01.1972"
       }
     ]
   },
@@ -58,16 +58,9 @@
   "name": "Cmentarz ewangelicki w Strzebielinku",
   "latitude": 54.72371818188773,
   "longitude": 18.042937742997843,
-  "description": "BRAK OPISU",
+  "description": "Brak ocalałych nagrobków",
   "photos": [
     "https://link.do.zdjecia.jpg"
-  ],
-  "buried": [
-    {
-      "name": "Jan Nowak",
-      "birth": "12.12.2012",
-      "death": "15.15.2015"
-    }
   ]
 }
 ] 
