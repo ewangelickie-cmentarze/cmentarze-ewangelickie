@@ -718,5 +718,294 @@
       "death": ""
     }
   ]
+},
+{
+  "id": 43,
+  "name": "Cmentarz ewangelicki w Perlinie",
+  "latitude": 54.730983012274066, 
+  "longitude": 17.953524959859717,
+  "description": "ND",
+  "photos": [
+    "https://link.do.zdjecia.jpg"
+  ],
+  "buried": [
+    {
+      "name": "",
+      "birth": "",
+      "death": ""
+    }
+  ]
+},
+{
+  "id": 44,
+  "name": "Cmentarz ewangelicki w Zolnicy",
+  "latitude": 54.629320160641264,
+  "longitude": 17.91841542278097,
+  "description": "ND",
+  "photos": [
+    "https://link.do.zdjecia.jpg"
+  ],
+  "buried": [
+    {
+      "name": "",
+      "birth": "",
+      "death": ""
+    }
+  ]
+},
+{
+  "id": 45,
+  "name": "Cmentarz ewangelicki w Barłominie",
+  "latitude": 54.526520323862115,
+  "longitude": 18.103564952556155,
+  "description": "ND",
+  "photos": [
+    "https://link.do.zdjecia.jpg"
+  ],
+  "buried": [
+    {
+      "name": "",
+      "birth": "",
+      "death": ""
+    }
+  ]
+},
+{
+  "id": 46,
+  "name": "Cmentarz ewangelicki w Dąbrowej",
+  "latitude": 54.47034170887968, 
+  "longitude": 18.434449825759074,
+  "description": "ND",
+  "photos": [
+    "https://link.do.zdjecia.jpg"
+  ],
+  "buried": [
+    {
+      "name": "",
+      "birth": "",
+      "death": ""
+    }
+  ]
+},
+{
+  "id": 47,
+  "name": "Cmentarz ewangelicki w Karczemkach",
+  "latitude":54.44613797406514,
+  "longitude": 18.387922722561182,
+  "description": "ND",
+  "photos": [
+    "https://link.do.zdjecia.jpg"
+  ],
+  "buried": [
+    {
+      "name": "",
+      "birth": "",
+      "death": ""
+    }
+  ]
+},
+{
+  "id": 48,
+  "name": "Cmentarz ewangelicki w Wysokich",
+  "latitude":54.63227670237436,
+  "longitude": 17.87745354979871,
+  "description": "ND",
+  "photos": [
+    "https://link.do.zdjecia.jpg"
+  ],
+  "buried": [
+    {
+      "name": "",
+      "birth": "",
+      "death": ""
+    }
+  ]
+},
+{
+  "id": 49,
+  "name": "Cmentarz ewangelicki w Pużycach",
+  "latitude": 54.63918419710161,
+  "longitude": 17.847650272042564,
+  "description": "ND",
+  "photos": [
+    "https://link.do.zdjecia.jpg"
+  ],
+  "buried": [
+    {
+      "name": "",
+      "birth": "",
+      "death": ""
+    }
+  ]
+},
+{
+  "id": 50,
+  "name": "Cmentarz ewangelicki w Krępie Słupskiej",
+  "latitude": 54.62815667515481, 
+  "longitude": 17.67547591569001,
+  "description": "ND",
+  "photos": [
+    "https://link.do.zdjecia.jpg"
+  ],
+  "buried": [
+    {
+      "name": "",
+      "birth": "",
+      "death": ""
+    }
+  ]
+},
+{
+  "id": 51,
+  "name": "Cmentarz Ofiar Śmierci Marszu Stutthof",
+  "latitude": 54.62989272421888,
+  "longitude": 17.675406066305243,
+  "description": "ND",
+  "photos": [
+    "https://link.do.zdjecia.jpg"
+  ],
+  "buried": [
+    {
+      "name": "",
+      "birth": "",
+      "death": ""
+    }
+  ]
+},
+{
+  "id": 52,
+  "name": "Cmentarz Ofiar Śmierci Marszu Stutthof",
+  "latitude": 54.67197789335292, 
+  "longitude": 18.10943378591148,
+  "description": "ND",
+  "photos": [
+    "https://link.do.zdjecia.jpg"
+  ],
+  "buried": [
+    {
+      "name": "",
+      "birth": "",
+      "death": ""
+    }
+  ]
+},
+{
+  "id": 53,
+  "name": "Cmentarz ewangelicki w Janisławcu",
+  "latitude": 54.609823000665074, 
+  "longitude": 17.717130164142123,
+  "description": "ND",
+  "photos": [
+    "https://link.do.zdjecia.jpg"
+  ],
+  "buried": [
+    {
+      "name": "",
+      "birth": "",
+      "death": ""
+    }
+  ]
+},
+{
+  "id": 54,
+  "name": "Cmentarz ewangelicki w Rekowie",
+  "latitude": 54.61603735024949,
+  "longitude": 17.797007367019038,
+  "description": "ND",
+  "photos": [
+    "https://link.do.zdjecia.jpg"
+  ],
+  "buried": [
+    {
+      "name": "",
+      "birth": "",
+      "death": ""
+    }
+  ]
+},
+{
+  "id": 55,
+  "name": "Cmentarz ewangelicki w Brzeźnie",
+  "latitude": 54.619494925490564,
+  "longitude": 17.84458110367483,
+  "description": "ND",
+  "photos": [
+    "https://link.do.zdjecia.jpg"
+  ],
+  "buried": [
+    {
+      "name": "",
+      "birth": "",
+      "death": ""
+    }
+  ]
+},
+{
+  "id": 56,
+  "name": "Cmentarz ewangelicki w Kaczkowie",
+  "latitude": 54.614019071344494,
+  "longitude": 17.88429894734177,
+  "description": "ND",
+  "photos": [
+    "https://link.do.zdjecia.jpg"
+  ],
+  "buried": [
+    {
+      "name": "",
+      "birth": "",
+      "death": ""
+    }
+  ]
+},
+{
+  "id": 57,
+  "name": "Cmentarz ewangelicki w Świetlinie",
+  "latitude": 54.60705321987286,
+  "longitude": 17.924401093566896,
+  "description": "ND",
+  "photos": [
+    "https://link.do.zdjecia.jpg"
+  ],
+  "buried": [
+    {
+      "name": "",
+      "birth": "",
+      "death": ""
+    }
+  ]
+},
+{
+  "id": 58,
+  "name": "Cmentarz ewangelicki w Chmieleńcu",
+  "latitude": 54.58592795773989,
+  "longitude": 17.971603437396542,
+  "description": "ND",
+  "photos": [
+    "https://link.do.zdjecia.jpg"
+  ],
+  "buried": [
+    {
+      "name": "",
+      "birth": "",
+      "death": ""
+    }
+  ]
+},
+{
+  "id": 59,
+  "name": "Cmentarz ewangelicki w Wielistowie",
+  "latitude": 54.56997591306773,
+  "longitude": 17.90646177860421,
+  "description": "ND",
+  "photos": [
+    "https://link.do.zdjecia.jpg"
+  ],
+  "buried": [
+    {
+      "name": "",
+      "birth": "",
+      "death": ""
+    }
+  ]
 }
 ] 
