@@ -633,5 +633,90 @@
       "death": ""
     }
   ]
+},
+{
+  "id": 38,
+  "name": "Cmentarz ewangelicki w Gęsi",
+  "latitude":54.641943697113724,
+  "longitude": 17.660720236584602,
+  "description": "ND",
+  "photos": [
+    "https://link.do.zdjecia.jpg"
+  ],
+  "buried": [
+    {
+      "name": "",
+      "birth": "",
+      "death": ""
+    }
+  ]
+},
+{
+  "id": 39,
+  "name": "Cmentarz ewangelicki w Wicku",
+  "latitude": 54.67476229358317,
+  "longitude": 17.612209082582186,
+  "description": "ND",
+  "photos": [
+    "https://link.do.zdjecia.jpg"
+  ],
+  "buried": [
+    {
+      "name": "",
+      "birth": "",
+      "death": ""
+    }
+  ]
+},
+{
+  "id": 40,
+  "name": "Cmentarz ewangelicki we Wrześciu",
+  "latitude": 54.685824312164804,
+  "longitude": 17.611268338412295,
+  "description": "ND",
+  "photos": [
+    "https://link.do.zdjecia.jpg"
+  ],
+  "buried": [
+    {
+      "name": "",
+      "birth": "",
+      "death": ""
+    }
+  ]
+},
+{
+  "id": 41,
+  "name": "Cmentarz ewangelicki w Białogardzie",
+  "latitude":54.65402626284969, 
+  "longitude": 17.65207020102521,
+  "description": "ND",
+  "photos": [
+    "https://link.do.zdjecia.jpg"
+  ],
+  "buried": [
+    {
+      "name": "",
+      "birth": "",
+      "death": ""
+    }
+  ]
+},
+{
+  "id": 42,
+  "name": "Cmentarz ewangelicki w Zdrzewnie",
+  "latitude": 54.67419243481581,
+  "longitude": 17.706521499282136,
+  "description": "ND",
+  "photos": [
+    "https://link.do.zdjecia.jpg"
+  ],
+  "buried": [
+    {
+      "name": "",
+      "birth": "",
+      "death": ""
+    }
+  ]
 }
 ] 
