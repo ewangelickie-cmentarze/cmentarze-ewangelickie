@@ -1007,5 +1007,141 @@
       "death": ""
     }
   ]
-}
+},
+{
+  "id": 60,
+  "name": "Cmentarz ewangelicki w Godętowie",
+  "latitude": 54.565722591115595,
+  "longitude": 17.86499797521253,
+  "description": "ND",
+  "photos": [
+    "https://link.do.zdjecia.jpg"
+  ],
+  "buried": [
+    {
+      "name": "",
+      "birth": "",
+      "death": ""
+    }
+  ]
+},
+{
+  "id": 61,
+  "name": "Cmentarz ewangelicki w Łęczycach",
+  "latitude": 54.59204370915833,
+  "longitude": 17.850594090619204,
+  "description": "ND",
+  "photos": [
+    "https://link.do.zdjecia.jpg"
+  ],
+  "buried": [
+    {
+      "name": "",
+      "birth": "",
+      "death": ""
+    }
+  ]
+},
+{
+  "id": 62,
+  "name": "Cmentarz ewangelicki w Kisewie",
+  "latitude": 54.59203037689833,
+  "longitude": 17.815925521363585,
+  "description": "ND",
+  "photos": [
+    "https://link.do.zdjecia.jpg"
+  ],
+  "buried": [
+    {
+      "name": "",
+      "birth": "",
+      "death": ""
+    }
+  ]
+},
+{
+  "id": 63,
+  "name": "Cmentarz ewangelicki w Wilkowie",
+  "latitude": 54.598904387153915,
+  "longitude": 17.743035045256065,
+  "description": "ND",
+  "photos": [
+    "https://link.do.zdjecia.jpg"
+  ],
+  "buried": [
+    {
+      "name": "",
+      "birth": "",
+      "death": ""
+    }
+  ]
+},
+{
+  "id": 64,
+  "name": "Cmentarz ewangelicko-augsburski w Lubowidzu",
+  "latitude": 54.56997591306773,
+  "longitude": 17.90646177860421,
+  "description": "ND",
+  "photos": [
+    "https://link.do.zdjecia.jpg"
+  ],
+  "buried": [
+    {
+      "name": "",
+      "birth": "",
+      "death": ""
+    }
+  ]
+},
+{
+  "id": 65,
+  "name": "Cmentarz ewangelicki w Kobysewie",
+  "latitude": 54.360601775192, 
+  "longitude": 18.27100691152123,
+  "description": "ND",
+  "photos": [
+    "https://link.do.zdjecia.jpg"
+  ],
+  "buried": [
+    {
+      "name": "",
+      "birth": "",
+      "death": ""
+    }
+  ]
+},
+{
+  "id": 66,
+  "name": "Cmentarz ewangelicki w Ujeścisku",
+  "latitude": 54.3346502098693,
+  "longitude": 18.591075272072867,
+  "description": "ND",
+  "photos": [
+    "https://link.do.zdjecia.jpg"
+  ],
+  "buried": [
+    {
+      "name": "",
+      "birth": "",
+      "death": ""
+    }
+  ]
+},
+{
+  "id": 67,
+  "name": "Cmentarz ewangelicki w Jankowie",
+  "latitude": 54.29848159272044, 
+  "longitude": 18.550615468936634,
+  "description": "ND",
+  "photos": [
+    "https://link.do.zdjecia.jpg"
+  ],
+  "buried": [
+    {
+      "name": "",
+      "birth": "",
+      "death": ""
+    }
+  ]
+},
 ] 
